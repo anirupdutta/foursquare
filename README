@@ -1,0 +1,8 @@
+Foursquare is becoming very popular now days,so its obvious that we need a foursquare widget for elgg.
+So i divided the widget development project into two parts.
+First is the foursquare_api which exposes the foursquare api functions and allows a great level of administrative flexibility.
+This is the second part of the project which includes a foursquare widget for elgg and displays users checkins.
+
+Remember this works only for elgg 1.8.
+
+Needs foursquare_api plugin to be installed.
